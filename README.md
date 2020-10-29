@@ -6,7 +6,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 `npm install --save-dev @angular-devkit/build-angular`
 
-`npm install --save ngx-webstorage
+`npm install --save ngx-webstorage`
 
 ## Development server
 
