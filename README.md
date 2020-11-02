@@ -14,6 +14,8 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 `npm install --save @fortawesome/fontawesome-svg-core`
 
+`npm install --save @tinymce/tinymce-angular`
+
 
 
 ## Development server
