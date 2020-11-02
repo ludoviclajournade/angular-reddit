@@ -8,6 +8,14 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 `npm install --save ngx-webstorage`
 
+`npm install --save @fortawesome/free-solid-svg-icons`
+
+`npm install --save @fortawesome/angular-fontawesome`
+
+`npm install --save @fortawesome/fontawesome-svg-core`
+
+
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
